@@ -13,7 +13,7 @@ This project leverages the serverless nature of AWS Lambda, allowing for a scala
 
 ### Project Architecture
 
-![project architecture](resources/archiitecture.drawio.svg)
+![project architecture](resources/architecture.drawio.svg)
 
 
 ## Create new enironment thatuses python 3.9
